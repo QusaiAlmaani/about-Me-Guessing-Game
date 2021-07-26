@@ -1,0 +1,34 @@
+body {
+    background-color:aquamarine;
+  }
+  header{
+    text-align: center;
+    background: red;
+  }
+  nav ul li{
+    text-decoration:none;
+    color:blue;
+    display: inline;
+  }
+  a {
+    text-decoration:none;
+  }
+
+  img {
+    border-radius: 50%;
+    margin-left: 37%;
+    margin-right: 30%;
+   
+  }
+  .education {
+    float: none;
+    text-align: center;
+   
+      
+  }
+  .info{
+      float: none;
+      text-align: center;
+  }
+  
+ 
